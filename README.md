@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mitchie6
+- 👋 Hi, I’m @kevonscott
 - 👀 I’m interested in Data Operation, DevOps and Soccer
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
